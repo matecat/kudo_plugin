@@ -9,6 +9,6 @@
   "author": "MateCat Team",
   "license": "LGPL",
   "dependencies": {
-    "grunt": "^1.4.0"
+    "grunt": "~1.5.3"
   }
 }
