@@ -8,7 +8,7 @@
   },
   "author": "MateCat Team",
   "license": "LGPL",
-  "dependencies": {
+  "devDependencies": {
     "grunt": "~1.5.3"
   }
 }
