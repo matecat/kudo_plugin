@@ -6,8 +6,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "MateCat Team",
-  "license": "LGPL",
-  "devDependencies": {
-    "grunt": "~1.5.3"
-  }
+  "license": "LGPL"
 }
